@@ -9,8 +9,7 @@ More commands to be included.
 ### Usage
 
 ```python
-'''
-Usage: curlit [-h] URL'''
+'''Usage: curlit [-h] URL'''
 ```
 
 ## findit
@@ -18,8 +17,7 @@ Usage: curlit [-h] URL'''
 ### Usage
 
 ```python
-'''
-Usage: findit PATH [OPTIONS]
+'''Usage: findit PATH [OPTIONS]
     Options:
        -type [f|d]	File is of type f for regular file or d for directory
        -name pattern	Name of file matches shell pattern
@@ -33,8 +31,7 @@ Usage: findit PATH [OPTIONS]
 ### Usage
 
 ```python
-'''
-Usage: moveit files...'''
+'''Usage: moveit files...'''
 ```
 
 ## nmapit
@@ -42,8 +39,7 @@ Usage: moveit files...'''
 ### Usage
 
 ```python
-'''
-Usage: nmapit [-p START-END] HOST
+'''Usage: nmapit [-p START-END] HOST
     Options:
         -p START-END    Specifies the range of port numbers to scan'''
 ```
@@ -53,8 +49,7 @@ Usage: nmapit [-p START-END] HOST
 ### Usage
 
 ```python
-'''
-Usage: timeit [options] command...
+'''Usage: timeit [options] command...
     Options:
         -t SECONDS  Timeout duration before killing command (default is Timeot)
         -v          Display verbose debugging output'''
@@ -65,8 +60,7 @@ Usage: timeit [options] command...
 ### Usage
 
 ```python
-'''
-Usage: trit SET1 SET2
+'''Usage: trit SET1 SET2
     Post Translation filters:
        -l      Convert to lowercase
        -u      Convert to uppercase

@@ -18,7 +18,8 @@ Usage: curlit [-h] URL'''
 ### Usage
 
 ```python
-'''Usage: findit PATH [OPTIONS]
+'''
+Usage: findit PATH [OPTIONS]
     Options:
        -type [f|d]	File is of type f for regular file or d for directory
        -name pattern	Name of file matches shell pattern

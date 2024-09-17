@@ -59,6 +59,21 @@ Usage: timeit [options] command...
         -v          Display verbose debugging output'''
 ```
 
+## timeit
+
+### Usage
+
+```python
+'''
+Usage: trit SET1 SET2
+    Post Translation filters:
+       -l      Convert to lowercase
+       -u      Convert to uppercase
+       -t      Convert to titlecase
+       -s      Strip trailing whitespace
+       -d      Delete letters in SET1'''
+```
+
 ## Licence
 
 [MIT](https://choosealicense.com/licenses/mit/)
